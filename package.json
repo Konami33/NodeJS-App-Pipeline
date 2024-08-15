@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-app-pipeline",
+  "version": "1.0.0",
+  "description": "NodeJs application with jenkins pipeline automation",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
